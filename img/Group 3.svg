@@ -1,0 +1,27 @@
+<svg width="734" height="640" viewBox="0 0 734 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="734" height="640" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(-0.00408719) scale(0.0013624 0.0015625)"/>
+</pattern>
+<image id="image0" width="740" height="640" xlink:href="home.png"/>
+</defs>
+<path d="M222 527L442.8 535L512 521.3V543L443.5 562.7L222 551.7V527Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 527V502L443.3 505.3L513 502V522L443.7 535L223 527Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 501V476H444H513V499L445 506L223 501Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 476V451L444.3 447.3L512 454V476H444" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 451V425L444.5 421.7L513 432.7V454L444 447.3L223 451Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 426V402.3L443 390L514 413V434.3L443 422L222 426Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 404V379L444.2 362.7L514 391.3V412L443.7 390.3L222 404Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 379V354L444.5 333.7L514 370.3V391L442 362.3L222 379Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 354V330L445 305.3L514 349.3V371L444.7 333L222 354Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 329V305L444.5 276.3L514 327.3V348L443.7 305.7L222 329Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M221 305V281L443.3 248L514 307.3V327L444 276.3L221 305Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 281V257L443.2 222L513 286V307L444.3 248.7L222 281Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 258V233L444.3 195L513 265.3V286L444 222L222 258Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 235V210L442.8 166.3L513 245.3V268L444 194.7L222 235Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M223 210V185L443 137L513 222V245L442.3 165.7L223 210Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 185V160L441.8 108L513 200.3V223L443.3 136.7L222 185Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M222 160V134L444 77.3L513 179V200L443.7 108.3L222 160Z" fill="#3595F6" fill-opacity="0.75"/>
+
+</svg>
