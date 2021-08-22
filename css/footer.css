@@ -1,0 +1,66 @@
+.footer {
+  background-color: #d7d7d7;
+  margin-top: 99px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 50px;
+  padding-bottom: 55px;
+  border-top: 4px solid #3596f5;
+  color: #635854;
+}
+.footer-navigation {
+  min-width: 1280px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-footer {
+  width: 65px;
+  height: 65px;
+  left: 81px;
+  top: 903px;
+}
+.footer-contacts {
+  display: flex;
+  flex-direction: column;
+}
+.footer-text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #635854;
+}
+.footer-contact-link {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 20px;
+  color: #635854;
+}
+.social-menu {
+  margin: 0; /* убрали внешние отступы */
+  padding: 0; /* убрали внутренние отступы */
+  list-style: none; /* отключаем точки со списка */
+  display: flex; /* сделали блок гибким */
+}
+.social-items {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.footer-nav-menu {
+  margin: 0; /* убрали внешние отступы */
+  padding: 0; /* убрали внутренние отступы */
+  list-style: none; /* отключаем точки со списка */
+  display: flex; /* сделали блок гибким */
+  text-align: center;
+}
+.footer-nav-item {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.footer-nav-link {
+  font-size: 16px;
+  line-height: 19px;
+  color: #635854;
+}
