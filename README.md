@@ -1,6 +1,6 @@
 # Melody - Study project
 ## Project creator - Sandryhaila Kiryl
-### Технологии
+###  Technologies
 - html
 - css
 - javascript
