@@ -1,5 +1,5 @@
-# melody - Учебный проект
-## Проект выполнил - Сандрыгайло Кирилл
+# Melody - Study project
+## Project creator - Sandryhaila Kiryl
 ### Технологии
 - html
 - css
